@@ -1,0 +1,4 @@
+requests==2.32.4
+gradio==5.42.0
+beautifulsoup4==4.13.4
+python-dotenv==1.1.1
