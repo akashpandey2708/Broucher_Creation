@@ -62,14 +62,19 @@ The AI processes the content and returns a **markdown-formatted brochure** you c
 ```bash
 git clone https://github.com/akashpandey2708/Broucher_Creation.git
 cd Broucher_Creation
+```
 
 2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
-3.
-    run broucher.py
+3.Run the app:
+
+```bash
+  run broucher.py
+```
 
 
 ## 🙌 Credits
