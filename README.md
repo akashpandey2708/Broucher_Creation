@@ -70,10 +70,16 @@ cd Broucher_Creation
 pip install -r requirements.txt
 ```
 
-3.Run the app:
+3. Add API Key:
+   
+```bash
+API_KEY="Your API_KEY"
+```
+
+4.Run the app:
 
 ```bash
-  run broucher.py
+run broucher.py
 ```
 
 
